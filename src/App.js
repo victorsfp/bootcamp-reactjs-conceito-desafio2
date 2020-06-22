@@ -35,6 +35,7 @@ function App() {
       setRepository(repository.filter(e => e.id !== id))      
     })
   }
+  
 
   return (
     <div>
